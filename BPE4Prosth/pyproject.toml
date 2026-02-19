@@ -1,0 +1,10 @@
+[project]
+name = "PreferenceOptimization"
+version = "0.1.0"
+description = "BOP HILO"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "botorch>=0.10.0",
+    "matplotlib>=3.9.4",
+]
